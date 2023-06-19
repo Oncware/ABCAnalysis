@@ -9,10 +9,10 @@ When the application is launched, you'll see a window with four columns labeled 
 
 To enter data for a product, fill in the appropriate fields in the first row:
 
-# Product Name: Enter the name of the product.
-# Unit Price: Enter the unit price of the product.
-# Quantity: Enter the quantity of the product.
-# Total Price: You can either enter the total price directly or leave it blank. If left blank, it will be calculated as Unit Price * Quantity.
+Product Name: Enter the name of the product.
+Unit Price: Enter the unit price of the product.
+Quantity: Enter the quantity of the product.
+Total Price: You can either enter the total price directly or leave it blank. If left blank, it will be calculated as Unit Price * Quantity.
 To add more products, click the "Add Row" button. This will create a new row for you to enter additional product information.
 
 After you have entered all the product information, click the "Calculate" button. The application will perform ABC Analysis and:
